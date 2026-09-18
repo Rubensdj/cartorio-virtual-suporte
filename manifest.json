@@ -1,0 +1,20 @@
+{
+  "name": "Cartório Virtual",
+  "short_name": "Cartório",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#ff2e63",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Rubensdj/cartorio-virtual-suporte/main/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Rubensdj/cartorio-virtual-suporte/main/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
